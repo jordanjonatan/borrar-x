@@ -26,4 +26,4 @@ No borra mensajes directos ni marcadores.
 - Puedes subir `PARALELO` (primera línea del script) de 5 a 8. Más de eso suele activar el límite de X.
 
 ## Aviso
-Proyecto no oficial, sin relación con X Corp. X puede cambiar su web y romper los scripts, y automatizar acciones puede ir contra sus condiciones de uso. Úsalo bajo tu responsabilidad. **Los borrados son irreversibles.**
+Proyecto no oficial, sin relación con X Corp. X puede cambiar su web y romper los scripts, y automatizar acciones puede ir contra sus condiciones de uso. Úsalo bajo tu responsabilidad. **Los borrados son irreversibles.** La versión API se ha probado con una simulación, no contra X real. Puede fallar si X cambia su web; si te pasa, abre un issue.
